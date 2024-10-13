@@ -1,0 +1,4 @@
+openpyxl
+PyPDF2
+reportlab
+bs4
